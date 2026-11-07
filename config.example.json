@@ -1,0 +1,16 @@
+{
+  "clientId": "PASTE_YOUR_APPLICATION_ID_HERE",
+  "type": "watching",
+  "fallbackType": "playing",
+  "watchUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "buttonLabel": "Watch",
+  "largeImage": "gta6",
+  "largeText": "Grand Theft Auto VI",
+  "rotateSeconds": 60,
+  "statuses": [
+    { "details": "Robbing a bank in Vice City", "state": "Story Mode" },
+    { "details": "Outrunning a 5-star wanted level", "state": "Leonida Keys" },
+    { "details": "Planning a heist with Jason", "state": "Story Mode" },
+    { "details": "Cruising Ocean Drive at sunset", "state": "Vice City" }
+  ]
+}

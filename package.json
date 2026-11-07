@@ -1,0 +1,10 @@
+{
+  "name": "gta6-rpc",
+  "description": "Fake Grand Theft Auto VI Discord Rich Presence with a Watch button. Zero dependencies.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node rpc.mjs"
+  }
+}
